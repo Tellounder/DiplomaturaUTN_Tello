@@ -1,0 +1,23 @@
+/*esto es un comentrario */
+
+h1{
+    color: red;/*color tipo*/
+    font-family: Arial, Helvetica, sans-serif;/*fuente*/
+    background-color: yellow;/*fondo*/
+    text-transform: uppercase;/*mayuscula*/
+    text-align: center;/*centrar texto*/
+
+}
+
+h2{
+    color: blue;
+    font-size: 26px;/*tamaño de la tipo*/
+    
+
+}
+p{
+    color: green;
+    font-weight: 1000;/*negrita*/
+    font-style: italic;/*negrita inclinada variante*/
+    
+}
