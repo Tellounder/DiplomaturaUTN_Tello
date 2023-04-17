@@ -1,0 +1,29 @@
+body{
+    background-color: brown;
+    background: url(big-buck.jpg);
+}
+
+.normal{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.083);
+    color: white;
+}
+.bajo{
+    border: 2px solid black;
+    margin-bottom: 20px;
+    background-color: hwb(0 0% 100% / 0.242);
+    color: white;
+}
+.medio{
+    border: 2px solid black;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.063);
+    color: white;
+}
+.alto{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

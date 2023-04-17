@@ -1,0 +1,32 @@
+#rojo{
+    
+    width: 300px; /*ancho*/
+    height: 300px;/*alto*/
+    background-color: red;/*fonfo*/
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin: 50px;
+    box-shadow: -5px -5px 5px green;
+    border-radius: 20px;
+    border-radius: 20px 0;
+    
+
+}
+
+/*pading - margin*/
+
+/*
+padding: 5px 10px 15px 20px;
+padding: 5px 15px 20px
+padding: 5px 20px;
+padding: 20px;
+*/
+
+#azul{
+    width: 300px; /*ancho*/
+    height: 300px;/*alto*/
+    background-color: rgb(0, 38, 255);/*fonfo*/
+    padding: 20px;
+}
+

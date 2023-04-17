@@ -1,0 +1,14 @@
+div{
+    background: rgb(233,233,241);
+    background: radial-gradient(circle, rgba(233,233,241,1) 0%, rgba(121,9,61,0.19088319088319083) 46%, rgba(240,255,0,0.11396011396011396) 100%);
+background-color: yellow;
+column-count: 5;
+column-gap: 50px;
+column-rule: 2 px solid black;
+
+}
+
+p{
+    margin: 0;
+
+
