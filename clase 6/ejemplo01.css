@@ -1,0 +1,7 @@
+img {
+    filter: sepia(55%);
+    ;
+}
+img:hover {
+    filter: grayscale(0%);
+}
