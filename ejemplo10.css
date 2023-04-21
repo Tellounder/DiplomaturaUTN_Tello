@@ -1,0 +1,43 @@
+.caja{
+    width: 400px;
+    height: 300px;
+    background-color: blue;
+    font-family: Arial;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    /* transform: rotate(25deg); */
+    transition: all 5s ease;
+
+    
+}
+@keyframes rectangulo {
+
+    15%{
+        transform: translateX( -20px);
+    }
+    30%{
+        transform: translateX( -20px);
+    }
+    40%{
+        transform: translateX( -20px) rotate(-90deg);
+    }
+    60%{
+        transform: translateX( -20px);
+    }
+    80%{
+        transform: translateX( -10px);
+    }
+    100%{
+        transform: translateX( -20px);       
+    }
+
+}
+
+.caja:hover{
+    animation: rectangulo 1s ease;
+    animation-iteration-count: 5;
+}
+
