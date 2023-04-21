@@ -1,0 +1,44 @@
+
+
+
+.caja {
+    width: 600px;
+    height: 600px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    display: flex;
+
+
+  
+}
+
+
+.item1{
+    background-color: rgb(14, 193, 82);
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+    margin: 0 auto;
+}
+
+.item2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    margin: 0px;
+    color: white;
+}
+
+.item3{
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    margin: 0px;
+    color: white;
+}
