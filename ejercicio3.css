@@ -3,16 +3,17 @@
 
 .caja {
     display: flex;
-    justify-content: center;
-    width: 600px;
-    height: 600px;
+    justify-content:space-between;
+    width: 1800px;
+    height: 200px;
     align-items: center;
-    text-align: center;
+    /* text-align: center; */
     margin: auto;
-    left: 0px;
-    right: 0px;
-    position: relative;
+    /* left: 0px; */
+    /* right: 0px; */
+    /* position: relative; */
     border: solid black 2px;
+   
     
     
 
