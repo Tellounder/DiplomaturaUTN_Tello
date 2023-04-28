@@ -17,15 +17,19 @@
 
     15%{
         transform: translateX( -20px);
+        background-color: beige;
     }
     30%{
         transform: translateX( -20px);
+        background-color: blueviolet;
     }
     40%{
         transform: translateX( -20px) rotate(-90deg);
+        background-color: aquamarine;
     }
     60%{
         transform: translateX( -20px);
+        background-color: blanchedalmond;
     }
     80%{
         transform: translateX( -10px);
