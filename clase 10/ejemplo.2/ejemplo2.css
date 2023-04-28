@@ -1,0 +1,14 @@
+body{
+    background-color: #332f29;
+    color: white;
+}
+
+.contenedor{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #8fa68e;
+    padding: 20px;
+}
