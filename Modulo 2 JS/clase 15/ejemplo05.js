@@ -1,22 +1,26 @@
-const items = document.getElementsByClassName ('item')
+const items = document.getElementsByClassName('item')
 
-//onsole.log(items)4
+console.log(items)
+4
 
-function cambiarVisivilidad(numItem){
-    const item = items[numItem]
-    if(item.style.visibility == ""){
-        item.style.visibility= "hidden"
-    } else{
-        item.style.visibility = ""
-    }
+function cambiarVisivilidad(numItem) {
+  const item = items[numItem]
+  if (item.style.visibility == "") {
+    item.style.visibility = "hidden"
+  } else {
+    item.style.visibility = ""
+  }
 }
 
-function cambiarDisplay(numItem){
-    const item = items [numItem]
-    if(item.style.display == ""){
-        item.style.display = 'none'
-
-    }else{
-        item.style.display = ""
-    }
+function cambiarDisplay(numItem) {
+  const item = items[numItem]
+  if (item.style.display == "") {
+    item.style.display = 'none'
+  }
+  else {
+  item.style.display = ""
 }
+}
+
+
+
