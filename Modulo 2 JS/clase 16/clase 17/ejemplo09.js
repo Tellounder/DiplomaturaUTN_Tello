@@ -10,4 +10,4 @@ const persona = {
     ]
 }
 
-console.log(persona)
+console.log(persona.hobbies)
