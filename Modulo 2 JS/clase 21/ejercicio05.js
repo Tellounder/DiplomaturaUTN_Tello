@@ -26,6 +26,6 @@ var alumnos = [
     }
   ];
 
-  const aprobados = alumnos.filte{(alumnos) => alumnos.nota > 7}
+  const aprobados = alumnos.filte {(alumnos) => alumnos.nota > 7}
 
   console.log(aprobados)
