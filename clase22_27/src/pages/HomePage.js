@@ -1,12 +1,13 @@
 import '../styles/home.css'
 import Slider from 'react-slick';
-import "../styles/slick.css"
+import "slick-carousel/slick/slick.css";
+
 const HomePage = (props) => {
 
     const settings = {
         arrows: false,
         infinite: true,
-        speed: 1000,
+        speed: 500,
         autoplaySpeed: 3000,
         fade: true,
         autoplay: true
