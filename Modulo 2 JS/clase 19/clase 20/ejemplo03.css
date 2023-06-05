@@ -1,7 +1,22 @@
+body{
+    background: url(https://ichef.bbci.co.uk/news/640/cpsprodpb/7458/production/_104048792_pizzaistock.jpg);
+    background-color: black;
+    color: white;
+}
+
 html{
     scroll-behavior: smooth;
 }
 
 .scroll_section{
-    scroll-margin-top:56px ;
+    scroll-margin-top:80px ;
+}
+
+footer{
+    background-color: #343a40;
+    color: aliceblue;
+    padding: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
 }
