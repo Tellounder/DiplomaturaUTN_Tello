@@ -45,3 +45,9 @@ padding: 5px;
 display: block;
 text-align: center;
 }
+
+.mapa{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}

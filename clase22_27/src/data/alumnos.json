@@ -1,0 +1,27 @@
+[
+{
+    "nombre": "Flavia",
+    "apellido": "Ursino",
+    "edad": 41
+},
+{
+    "nombre": "Daniela",
+    "apellido": "Perez",
+    "edad": 22
+},
+{
+    "nombre": "Rodolfo",
+    "apellido": "Gomes",
+    "edad": 33
+},
+{
+    "nombre": "Lucas",
+    "apellido": "Raul",
+    "edad": 28
+},
+{
+    "nombre": "Maite",
+    "apellido": "Tello",
+    "edad": 35
+}
+]
